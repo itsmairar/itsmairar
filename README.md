@@ -1,13 +1,7 @@
 ### Olá! Eu sou a Maíra
 
 
-- 🔭 Estou trabalhando como tecnico de comunicação de dados
-- 🌱 Esrudo dev de sistemas
-- 📫 Contate-me no e-mail: itsmairar@outlook.com
-- 😄 Pronouns: ela/dela
-
- ##
- 
+## Olá! Eu sou a Maíra, estudante de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/itsmairar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmairar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -30,6 +24,6 @@
   <a href = "mailto:itsmairar@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ma%C3%ADra-santana-5b81761b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/itsmairar/itsmairar/blob/output/github-contribution-grid-snake.svg)
  
 </div>
