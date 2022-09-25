@@ -1,9 +1,7 @@
-## Olá! Eu sou a Maíra, estudante de conteúdo de programação e tecnologia!
+## Olá! Eu sou a Maíra, estudante de conteúdo de programação.
 <div align="center">
   <a href="https://github.com/itsmairar">
   <img height="40%" src="https://github-readme-stats.vercel.app/api?username=itsmairar&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmairar&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
     
 <div style="display: inline_block"><br>
 
