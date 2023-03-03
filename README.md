@@ -23,6 +23,7 @@
  <img align="center" alt="Maíra-html-css" height="40" width="50" src="https://user-images.githubusercontent.com/83184997/192118082-295bed30-0e69-4aed-8348-20b19bdb2504.png">
   <img align="center" alt="Maíra-php" height="40" width="50" src="https://user-images.githubusercontent.com/83184997/192118015-a090bc76-6193-46b4-9d85-0cd2ff02f5f7.png">
     <img align="center" alt="Maíra-php" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png">
+    <img align="center" alt="Maíra-php" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/7207/7207175.png">
  </div> 
   
   
