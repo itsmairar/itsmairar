@@ -24,6 +24,7 @@
   <img align="center" alt="Maíra-php" height="40" width="50" src="https://user-images.githubusercontent.com/83184997/192118015-a090bc76-6193-46b4-9d85-0cd2ff02f5f7.png">
     <img align="center" alt="Maíra-php" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png">
     <img align="center" alt="Maíra-php" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/7207/7207175.png">
+    <img align="center" alt="Maíra-php" height="40" width="50" src="https://img.icons8.com/color/256/git.png">
  </div> 
   
   
@@ -31,6 +32,7 @@
 
  <div> <img align="center" alt="Maíra-Js" height="40" width="50" src="https://user-images.githubusercontent.com/83184997/192118157-de52f04f-51d6-420f-99da-c451fafe7da7.png">
   <img align="center" alt="Maíra-java" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/644/644609.png">
+  <img align="center" alt="Maíra-java" height="40" width="50" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/256/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-green-tal-revivo.png">
  </div>
  
  
