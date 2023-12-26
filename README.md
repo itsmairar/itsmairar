@@ -13,7 +13,7 @@
 <div align="center"> 
   <a href="https://instagram.com/itsmairar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/PJXAJxTw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:itsmairar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:itsmairar@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ma%C3%ADra-ribeiro-5b81761b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
@@ -35,8 +35,8 @@
   <img align="center" alt="Maíra-java" height="40" width="50" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/256/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-green-tal-revivo.png">
  </div>
  
- 
-  ![Snake animation](https://github.com/itsmairar/itsmairar/blob/output/github-contribution-grid-snake.svg)
+
+ ###
 
    
   
