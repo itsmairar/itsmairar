@@ -19,25 +19,18 @@
 
 
 ### Main skills:
-<div> 
- <img align="center" alt="Maíra-html-css" height="40" width="50" src="https://user-images.githubusercontent.com/83184997/192118082-295bed30-0e69-4aed-8348-20b19bdb2504.png">
-  <img align="center" alt="Maíra-php" height="40" width="50" src="https://user-images.githubusercontent.com/83184997/192118015-a090bc76-6193-46b4-9d85-0cd2ff02f5f7.png">
-    <img align="center" alt="Maíra-php" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/2721/2721287.png">
-    <img align="center" alt="Maíra-php" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/7207/7207175.png">
-    <img align="center" alt="Maíra-php" height="40" width="50" src="https://img.icons8.com/color/256/git.png">
- </div> 
-  
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-4A154B?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![MySql](https://img.shields.io/badge/MySQL-276DC3?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+
   
 ### Studying in this moment:
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![fastap](https://img.shields.io/badge/fastapi-239120?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
- <div> <img align="center" alt="Maíra-Js" height="40" width="50" src="https://user-images.githubusercontent.com/83184997/192118157-de52f04f-51d6-420f-99da-c451fafe7da7.png">
-  <img align="center" alt="Maíra-java" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/644/644609.png">
-  <img align="center" alt="Maíra-java" height="40" width="50" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/256/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-green-tal-revivo.png">
- </div>
- 
-
- ###
-
-   
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
