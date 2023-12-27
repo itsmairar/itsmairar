@@ -31,5 +31,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![fastap](https://img.shields.io/badge/fastapi-239120?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
