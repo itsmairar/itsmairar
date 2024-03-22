@@ -33,4 +33,6 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmairar&bg_color=000000&color=ad83ec&line=bd93f9&point=9b5df9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
