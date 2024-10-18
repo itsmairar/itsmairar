@@ -6,10 +6,21 @@
  | ----------- | ----------- |
 
 
- 
+
+
+### Main skills:
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,dart,flutter,bots,py,django,fastapi,docker,figma,html,grafana,linux,mongodb,postgres,postman" />
+</a>
+  <br />
+
+  </div>
+
+### Studying in this moment:
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=aws,java,maven,spring,js" />
 </a>
   <br />
 
